@@ -193,3 +193,5 @@ public class Doacao {
         return data;
     }
 }
+# Crítica á IA
+A IA foi de muita ajuda para ter se uma base firme aonde pude com ela precisamente estabelecer o código, apesar do código oferecido por ela ter de sofrer diversas alterações por não ser um código preciso na proposta enviada pelo trabalho, com vários defeitos como nos requisitos pedidos de informações das doações recebidas, onde ela não fez como pedido, e a disponibilidade do usuário com tais, foi uma ponte firme para se trabalhar e chegar ao resultado final.
